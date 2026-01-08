@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0009-palindrome-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Bit Manipulation
