@@ -49,6 +49,7 @@
 | [0413-arithmetic-slices](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -61,6 +62,7 @@
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -75,6 +77,7 @@
 | [0299-bulls-and-cows](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0413-arithmetic-slices](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0413-arithmetic-slices) |
+| [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +157,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0299-bulls-and-cows) |
+| [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
 ## Rolling Hash
 |  |
 | ------- |
