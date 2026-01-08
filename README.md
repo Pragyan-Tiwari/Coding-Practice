@@ -56,6 +56,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0778-swim-in-rising-water) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -142,6 +143,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0778-swim-in-rising-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -200,4 +202,24 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0713-subarray-product-less-than-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0778-swim-in-rising-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0778-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0778-swim-in-rising-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0778-swim-in-rising-water) |
+## Matrix
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
