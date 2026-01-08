@@ -13,6 +13,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -27,6 +28,7 @@
 | [0066-plus-one](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0136-single-number) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
