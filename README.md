@@ -71,6 +71,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1051-height-checker](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -87,6 +88,7 @@
 | [0905-sort-array-by-parity](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0877-stone-game) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
