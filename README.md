@@ -13,6 +13,7 @@
 | [0258-add-digits](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0812-largest-triangle-area) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Bit Manipulation
@@ -57,6 +58,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0778-swim-in-rising-water) |
+| [0812-largest-triangle-area](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0812-largest-triangle-area) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -222,4 +224,8 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0778-swim-in-rising-water) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
