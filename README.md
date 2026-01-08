@@ -54,6 +54,7 @@
 | [0682-baseball-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
