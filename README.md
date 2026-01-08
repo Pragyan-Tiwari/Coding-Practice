@@ -18,6 +18,7 @@
 | [0011-container-with-most-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
