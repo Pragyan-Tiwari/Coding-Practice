@@ -84,6 +84,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0771-jewels-and-stones](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0299-bulls-and-cows](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0389-find-the-difference) |
 | [0474-ones-and-zeroes](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0474-ones-and-zeroes) |
+| [0771-jewels-and-stones](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
