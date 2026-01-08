@@ -13,10 +13,15 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0001-two-sum) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
