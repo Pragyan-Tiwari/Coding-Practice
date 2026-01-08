@@ -16,6 +16,7 @@
 | [0812-largest-triangle-area](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0908-smallest-range-i) |
+| [0976-largest-perimeter-triangle](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Bit Manipulation
@@ -65,6 +66,7 @@
 | [0905-sort-array-by-parity](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0908-smallest-range-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -79,6 +81,7 @@
 | [0389-find-the-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0011-container-with-most-water) |
+| [0976-largest-perimeter-triangle](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0976-largest-perimeter-triangle) |
 ## Linked List
 |  |
 | ------- |
