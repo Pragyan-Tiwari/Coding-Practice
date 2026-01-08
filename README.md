@@ -24,6 +24,7 @@
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0389-find-the-difference) |
+| [0476-number-complement](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
