@@ -36,6 +36,7 @@
 | [0136-single-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -43,6 +44,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0217-contains-duplicate) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -51,6 +53,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
