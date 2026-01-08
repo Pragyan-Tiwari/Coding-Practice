@@ -53,6 +53,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -102,6 +103,7 @@
 | [0413-arithmetic-slices](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,4 +191,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0682-baseball-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
