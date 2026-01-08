@@ -47,6 +47,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0485-max-consecutive-ones) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
