@@ -72,6 +72,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -144,6 +145,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
 | ------- |
