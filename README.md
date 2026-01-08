@@ -61,6 +61,7 @@
 | [0778-swim-in-rising-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0778-swim-in-rising-water) |
 | [0812-largest-triangle-area](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -74,6 +75,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -125,6 +127,7 @@
 | [0125-valid-palindrome](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
