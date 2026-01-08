@@ -51,6 +51,7 @@
 | [0485-max-consecutive-ones](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0704-binary-search) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
