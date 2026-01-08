@@ -26,6 +26,7 @@
 | [0053-maximum-subarray](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -84,6 +85,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
