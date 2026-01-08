@@ -11,6 +11,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Bit Manipulation
@@ -20,6 +21,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -38,6 +40,7 @@
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -47,6 +50,7 @@
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -57,6 +61,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -101,6 +106,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
