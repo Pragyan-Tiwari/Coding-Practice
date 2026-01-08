@@ -39,8 +39,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
