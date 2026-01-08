@@ -51,6 +51,7 @@
 | [0485-max-consecutive-ones](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0704-binary-search) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -132,6 +133,7 @@
 | [0069-sqrtx](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
