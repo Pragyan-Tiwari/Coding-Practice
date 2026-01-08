@@ -15,6 +15,7 @@
 | [0509-fibonacci-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0877-stone-game) |
+| [0908-smallest-range-i](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0908-smallest-range-i) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Bit Manipulation
@@ -62,6 +63,7 @@
 | [0812-largest-triangle-area](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0908-smallest-range-i) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
