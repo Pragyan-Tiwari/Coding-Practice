@@ -31,6 +31,7 @@
 | [0338-counting-bits](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0476-number-complement) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -69,6 +70,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
