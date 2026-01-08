@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Bit Manipulation
@@ -59,6 +60,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0778-swim-in-rising-water) |
 | [0812-largest-triangle-area](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0877-stone-game) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -164,6 +166,7 @@
 | [0474-ones-and-zeroes](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -228,4 +231,8 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0812-largest-triangle-area) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
