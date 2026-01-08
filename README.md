@@ -73,6 +73,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1089-duplicate-zeros) |
+| [1090-largest-values-from-labels](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1090-largest-values-from-labels) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -90,6 +91,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1051-height-checker) |
+| [1090-largest-values-from-labels](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1090-largest-values-from-labels) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -108,6 +110,7 @@
 | [0771-jewels-and-stones](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1090-largest-values-from-labels](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1090-largest-values-from-labels) |
 ## String
 |  |
 | ------- |
@@ -151,6 +154,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0976-largest-perimeter-triangle](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0976-largest-perimeter-triangle) |
+| [1090-largest-values-from-labels](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1090-largest-values-from-labels) |
 ## Linked List
 |  |
 | ------- |
@@ -200,6 +204,7 @@
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0299-bulls-and-cows) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
+| [1090-largest-values-from-labels](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1090-largest-values-from-labels) |
 ## Rolling Hash
 |  |
 | ------- |
