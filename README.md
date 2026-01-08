@@ -23,6 +23,7 @@
 | [0191-number-of-1-bits](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -54,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0389-find-the-difference) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -67,6 +69,7 @@
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
