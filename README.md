@@ -42,6 +42,7 @@
 | [0189-rotate-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -52,6 +53,7 @@
 | [0217-contains-duplicate](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -64,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0299-bulls-and-cows) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -91,6 +94,7 @@
 | [0075-sort-colors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0189-rotate-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -110,6 +114,7 @@
 | [0035-search-insert-position](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
