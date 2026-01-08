@@ -62,6 +62,7 @@
 | [0217-contains-duplicate](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0299-bulls-and-cows) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0299-bulls-and-cows) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0299-bulls-and-cows) |
 ## Rolling Hash
 |  |
 | ------- |
