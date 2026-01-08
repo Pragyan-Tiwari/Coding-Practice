@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0066-plus-one) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Bit Manipulation
@@ -21,6 +22,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0066-plus-one) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
