@@ -45,6 +45,7 @@
 | [0075-sort-colors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0125-valid-palindrome](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
