@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0069-sqrtx) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Bit Manipulation
@@ -69,6 +70,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
