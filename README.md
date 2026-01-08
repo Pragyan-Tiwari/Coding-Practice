@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0189-rotate-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Bit Manipulation
@@ -32,6 +33,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0189-rotate-array) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -71,6 +73,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
