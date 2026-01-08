@@ -45,6 +45,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0027-remove-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
