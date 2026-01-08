@@ -25,11 +25,13 @@
 | [0035-search-insert-position](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0075-sort-colors) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0075-sort-colors) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -54,6 +56,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
