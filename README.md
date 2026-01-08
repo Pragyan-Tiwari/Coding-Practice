@@ -75,6 +75,7 @@
 | [1089-duplicate-zeros](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1089-duplicate-zeros) |
 | [1090-largest-values-from-labels](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1090-largest-values-from-labels) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
 |  |
@@ -111,6 +112,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1090-largest-values-from-labels](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1090-largest-values-from-labels) |
+| [1207-unique-number-of-occurrences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
