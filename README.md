@@ -67,6 +67,7 @@
 | [0908-smallest-range-i](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0908-smallest-range-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -82,6 +83,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
@@ -135,6 +137,7 @@
 | [0189-rotate-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
