@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
@@ -40,6 +41,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
