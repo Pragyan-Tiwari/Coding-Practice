@@ -17,6 +17,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0190-reverse-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -97,6 +98,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
