@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -45,6 +46,7 @@
 | [0001-two-sum](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
 ## String
 |  |
 | ------- |
@@ -53,10 +55,12 @@
 | [0038-count-and-say](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,4 +108,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
