@@ -89,6 +89,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1470-shuffle-the-array) |
 ## Sorting
 |  |
 | ------- |
