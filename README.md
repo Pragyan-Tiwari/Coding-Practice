@@ -86,6 +86,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [1090-largest-values-from-labels](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1090-largest-values-from-labels) |
 | [1207-unique-number-of-occurrences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [0299-bulls-and-cows](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0299-bulls-and-cows) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1090-largest-values-from-labels](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1090-largest-values-from-labels) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Rolling Hash
 |  |
 | ------- |
