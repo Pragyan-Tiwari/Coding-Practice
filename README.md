@@ -55,6 +55,7 @@
 | [0169-majority-element](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0413-arithmetic-slices) |
@@ -255,6 +256,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0713-subarray-product-less-than-k) |
 ## Depth-First Search
 |  |
