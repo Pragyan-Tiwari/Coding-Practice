@@ -209,6 +209,7 @@
 | [0509-fibonacci-number](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/0877-stone-game) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Memoization
 |  |
 | ------- |
