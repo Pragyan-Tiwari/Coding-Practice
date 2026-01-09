@@ -84,6 +84,7 @@
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1331-rank-transform-of-an-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 ## Sorting
 |  |
@@ -102,6 +103,7 @@
 | [1051-height-checker](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1051-height-checker) |
 | [1090-largest-values-from-labels](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1090-largest-values-from-labels) |
 | [1200-minimum-absolute-difference](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1090-largest-values-from-labels](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1090-largest-values-from-labels) |
 | [1207-unique-number-of-occurrences](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
