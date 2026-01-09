@@ -87,6 +87,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Pragyan-Tiwari/Coding-Practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 ## Sorting
 |  |
 | ------- |
